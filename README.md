@@ -10,4 +10,4 @@ Pasos necesarios para descargar y ejecutar el proyecto en Visual Studio 2022.
 1. Abre tu terminal (Git Bash, CMD, PowerShell, etc.).
 2. Ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
    ```sh
-   git clone https://github.com/tu_usuario/proyecto-x.git
+   git clone https://github.com/danonino25/Login_C-.git
